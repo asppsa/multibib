@@ -1,0 +1,24 @@
+MultipleErrors: /home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/indexeddb.js:766:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/indexeddb.js:766:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/indexeddb.js:766:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/indexeddb.js:766:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/localstorage.js:302:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/localstorage.js:302:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/localstorage.js:302:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/localstorage.js:302:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/websql.js:371:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/websql.js:371:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/websql.js:371:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/drivers/websql.js:371:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/localforage@1.4.0/src/localforage.js:430:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/localforage.js:430:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/localforage.js:430:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/localforage.js:430:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/localforage@1.4.0/src/utils/serializer.js:264:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/utils/serializer.js:264:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/utils/serializer.js:264:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/localforage@1.4.0/src/utils/serializer.js:264:16: Semi-colon expected

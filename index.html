@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <script src="jspm_packages/system.js"></script>
+    <script src="config.js"></script>
+    <script src="main.bundle.js"></script>
+    <script>
+      System.import('lib/main');
+    </script>
+  </head>
+  <body>
+    <h1>Multibib</h1>
+
+    <div id="progress"></div>
+
+
+    <h2>Zotero</h2>
+    <p>Enter your Zotero credentials:</p>
+
+    <p>User IDs (space separated): <input type="text" id="user-ids" /></p>
+    <p>Group IDs (if any): <input type="text" id="group-ids" /></p>
+    <p>API key: <input type="text" id="api-key" /></p>
+
+    <p><button id="save-zotero">Save</button></p>
+
+
+    <h2>Style file</h2>
+    <p>Either ...</p>
+
+    <form name="style-file">
+      <p><input type="radio" name="csl" value="file" /> Select a CSL file <input type="file" id="csl-file" /></p>
+      <p>or... </p>
+      <p><input type="radio" name="csl" value="url" /> Specify a URL where a CSL file lives <input type="text" id="csl-url" /></p>
+    </form>
+
+    <p><button id="get-csl">Upload style file</button></p>
+
+    <p id="csl-status"></p>
+
+
+    <h2>Input documents</h2>
+    <p>Select DOCX files to use below:</p>
+
+    <p><input type="file" id="docx-files" multiple /></p>
+    <p>Then click this: <button id="go">Go</button></p>
+
+
+    <h2>Results</h2>
+    <ul id="links"></ul>
+    <div id="bibliography"></div>
+  </body>
+</html>

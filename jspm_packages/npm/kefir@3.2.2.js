@@ -1,0 +1,1 @@
+module.exports = require("npm:kefir@3.2.2/dist/kefir.js");

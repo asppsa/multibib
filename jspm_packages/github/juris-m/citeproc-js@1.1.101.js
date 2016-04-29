@@ -1,0 +1,1 @@
+module.exports = require("github:juris-m/citeproc-js@1.1.101/citeproc.js");

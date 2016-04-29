@@ -1,0 +1,1 @@
+module.exports = require("npm:urijs@1.17.1/src/URI");

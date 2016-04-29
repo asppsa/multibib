@@ -1,0 +1,1 @@
+module.exports = require("npm:zip-js@0.0.2/WebContent/zip-fs.js");

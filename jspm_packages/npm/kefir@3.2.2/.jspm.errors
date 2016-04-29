@@ -1,0 +1,1124 @@
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/constants.js:1:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/constants.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/constants.js:2:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/constants.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/constants.js:3:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/constants.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/constants.js:4:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/constants.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/constants.js:5:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/constants.js:5:8: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/dispatcher.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/dispatcher.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/dispatcher.js:1:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/dispatcher.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/dispatcher.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/dispatcher.js:2:33: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/dispatcher.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/dispatcher.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/dispatcher.js:3:52: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/dispatcher.js:75:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/dispatcher.js:75:8: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/emitter.js:1:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/emitter.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/emitter.js:1:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/emitter.js:1:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:2:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:2:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:4:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:4:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-es-observable.js:4:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:2:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:2:24: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:4:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:4:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/from-promise.js:4:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-es-observable.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-es-observable.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-es-observable.js:1:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-es-observable.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-es-observable.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-es-observable.js:2:33: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-es-observable.js:26:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-es-observable.js:26:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-es-observable.js:26:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-es-observable.js:26:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-promise.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-promise.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-promise.js:1:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-promise.js:11:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-promise.js:11:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-promise.js:11:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-promise.js:11:16: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-promise.js:11:24: Unexpected token (
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/interop/to-promise.js:11:25: Unexpected token obs
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:2:28: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:3:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:4:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:4:69: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:198:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:198:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:198:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/abstract-pool.js:198:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:2:37: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:3:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:4:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:4:33: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:5:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:5:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:5:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:6:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:6:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:6:14: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:6:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:157:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:157:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:157:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/combine.js:157:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/concat.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/concat.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/concat.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/concat.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/concat.js:3:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/concat.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/concat.js:3:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/concat.js:3:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:1:33: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:2:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:3:16: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:3:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:41:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:41:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:41:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map-errors.js:41:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:1:33: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:2:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:3:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:3:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:79:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:79:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:79:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/flat-map.js:79:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:2:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:2:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:3:14: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:3:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:24:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:24:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:24:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/merge.js:24:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/pool.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/pool.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/pool.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/pool.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/pool.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/pool.js:2:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/pool.js:2:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/pool.js:26:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/pool.js:26:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/pool.js:26:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/pool.js:26:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:2:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:2:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:3:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:69:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:69:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:69:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:69:16: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:69:24: Unexpected token (
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/repeat.js:69:25: Unexpected token generator
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:2:33: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:3:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:4:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:4:31: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:5:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:5:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:5:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:6:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:6:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:6:14: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:6:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:102:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:102:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:102:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/many-sources/zip.js:102:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:1:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:2:38: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:3:42: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:4:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:4:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:174:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:174:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:174:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/observable.js:174:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/before-end.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/before-end.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/before-end.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/before-end.js:24:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/before-end.js:24:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/before-end.js:24:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/before-end.js:24:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-while.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-while.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-while.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-while.js:45:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-while.js:45:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-while.js:45:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-while.js:45:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-count.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-count.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-count.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-count.js:41:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-count.js:41:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-count.js:41:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-count.js:41:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-time-or-count.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-time-or-count.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-time-or-count.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-time-or-count.js:61:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-time-or-count.js:61:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-time-or-count.js:61:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/buffer-with-time-or-count.js:61:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/changes.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/changes.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/changes.js:1:28: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/changes.js:22:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/changes.js:22:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/changes.js:22:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/changes.js:22:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/debounce.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/debounce.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/debounce.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/debounce.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/debounce.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/debounce.js:2:12: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/debounce.js:2:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/debounce.js:72:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/debounce.js:72:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/debounce.js:72:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/debounce.js:72:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/delay.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/delay.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/delay.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/delay.js:48:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/delay.js:48:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/delay.js:48:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/delay.js:48:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/diff.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/diff.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/diff.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/diff.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/diff.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/diff.js:2:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/diff.js:34:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/diff.js:34:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/diff.js:34:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/diff.js:34:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/end-on-error.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/end-on-error.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/end-on-error.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/end-on-error.js:16:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/end-on-error.js:16:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/end-on-error.js:16:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/end-on-error.js:16:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/errors-to-values.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/errors-to-values.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/errors-to-values.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/errors-to-values.js:31:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/errors-to-values.js:31:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/errors-to-values.js:31:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/errors-to-values.js:31:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter-errors.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter-errors.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter-errors.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter-errors.js:28:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter-errors.js:28:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter-errors.js:28:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter-errors.js:28:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter.js:28:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter.js:28:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter.js:28:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/filter.js:28:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/flatten.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/flatten.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/flatten.js:1:28: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/flatten.js:28:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/flatten.js:28:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/flatten.js:28:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/flatten.js:28:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-end.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-end.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-end.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-end.js:11:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-end.js:11:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-end.js:11:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-end.js:11:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-errors.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-errors.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-errors.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-errors.js:11:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-errors.js:11:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-errors.js:11:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-errors.js:11:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-values.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-values.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-values.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-values.js:11:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-values.js:11:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-values.js:11:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/ignore-values.js:11:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/last.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/last.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/last.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/last.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/last.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/last.js:2:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/last.js:31:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/last.js:31:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/last.js:31:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/last.js:31:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map-errors.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map-errors.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map-errors.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map-errors.js:26:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map-errors.js:26:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map-errors.js:26:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map-errors.js:26:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map.js:26:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map.js:26:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map.js:26:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/map.js:26:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/scan.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/scan.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/scan.js:1:30: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/scan.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/scan.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/scan.js:2:30: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/scan.js:32:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/scan.js:32:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/scan.js:32:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/scan.js:32:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-duplicates.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-duplicates.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-duplicates.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-duplicates.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-duplicates.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-duplicates.js:2:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-duplicates.js:32:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-duplicates.js:32:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-duplicates.js:32:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-duplicates.js:32:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-end.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-end.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-end.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-end.js:11:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-end.js:11:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-end.js:11:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-end.js:11:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-while.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-while.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-while.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-while.js:31:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-while.js:31:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-while.js:31:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip-while.js:31:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip.js:23:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip.js:23:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip.js:23:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/skip.js:23:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/sliding-window.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/sliding-window.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/sliding-window.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/sliding-window.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/sliding-window.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/sliding-window.js:2:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/sliding-window.js:29:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/sliding-window.js:29:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/sliding-window.js:29:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/sliding-window.js:29:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-errors.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-errors.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-errors.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-errors.js:26:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-errors.js:26:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-errors.js:26:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-errors.js:26:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-while.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-while.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-while.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-while.js:30:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-while.js:30:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-while.js:30:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take-while.js:30:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take.js:26:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take.js:26:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take.js:26:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/take.js:26:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/throttle.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/throttle.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/throttle.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/throttle.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/throttle.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/throttle.js:2:12: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/throttle.js:2:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/throttle.js:79:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/throttle.js:79:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/throttle.js:79:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/throttle.js:79:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/to-property.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/to-property.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/to-property.js:1:30: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/to-property.js:22:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/to-property.js:22:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/to-property.js:22:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/to-property.js:22:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/transduce.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/transduce.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/transduce.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/transduce.js:45:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/transduce.js:45:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/transduce.js:45:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/transduce.js:45:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/values-to-errors.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/values-to-errors.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/values-to-errors.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/values-to-errors.js:31:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/values-to-errors.js:31:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/values-to-errors.js:31:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/values-to-errors.js:31:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/with-handler.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/with-handler.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/with-handler.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/with-handler.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/with-handler.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/with-handler.js:2:16: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/with-handler.js:2:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/with-handler.js:27:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/with-handler.js:27:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/with-handler.js:27:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/one-source/with-handler.js:27:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:2:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:2:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:3:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:4:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:4:33: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:74:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/one-source.js:74:8: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/time-based.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/time-based.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/time-based.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/time-based.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/time-based.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/time-based.js:2:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/time-based.js:2:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/time-based.js:4:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/time-based.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/time-based.js:4:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/time-based.js:4:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:2:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:2:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:3:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:4:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:4:42: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:115:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/patterns/two-sources.js:115:8: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant-error.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant-error.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant-error.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant-error.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant-error.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant-error.js:2:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant-error.js:2:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant-error.js:23:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant-error.js:23:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant-error.js:23:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant-error.js:23:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant.js:2:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant.js:2:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant.js:22:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant.js:22:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant.js:22:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/constant.js:22:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-callback.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-callback.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-callback.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-callback.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-callback.js:3:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-callback.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-callback.js:3:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-callback.js:3:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-events.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-events.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-events.js:1:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-events.js:1:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-events.js:9:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-events.js:9:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-events.js:9:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-events.js:9:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-node-callback.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-node-callback.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-node-callback.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-node-callback.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-node-callback.js:3:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-node-callback.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-node-callback.js:3:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-node-callback.js:3:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-sub-unsub.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-sub-unsub.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-sub-unsub.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-sub-unsub.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-sub-unsub.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-sub-unsub.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-sub-unsub.js:2:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-sub-unsub.js:4:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-sub-unsub.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-sub-unsub.js:4:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/from-sub-unsub.js:4:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/never.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/never.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/never.js:1:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/never.js:1:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/never.js:8:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/never.js:8:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/never.js:8:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/never.js:8:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:2:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:2:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:3:16: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:3:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:44:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:44:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:44:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/primary/stream.js:44:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:2:33: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:3:30: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:4:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:4:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:4:24: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:66:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:66:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:66:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/property.js:66:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/stream.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/stream.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/stream.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/stream.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/stream.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/stream.js:2:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/stream.js:2:24: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/stream.js:19:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/stream.js:19:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/stream.js:19:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/stream.js:19:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/from-poll.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/from-poll.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/from-poll.js:1:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/from-poll.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/from-poll.js:23:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/from-poll.js:23:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/from-poll.js:23:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/from-poll.js:23:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/interval.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/interval.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/interval.js:1:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/interval.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/interval.js:22:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/interval.js:22:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/interval.js:22:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/interval.js:22:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/later.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/later.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/later.js:1:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/later.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/later.js:23:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/later.js:23:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/later.js:23:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/later.js:23:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:1:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:2:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:3:14: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:3:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:29:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:29:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:29:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/sequentially.js:29:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:1:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:1:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:2:16: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:2:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:27:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:27:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:27:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/time-based/with-interval.js:27:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:1:14: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:1:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:2:12: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:2:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:3:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:3:28: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:4:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:4:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:4:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:4:24: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:9:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:9:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:9:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/awaiting.js:9:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-by.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-by.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-by.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-by.js:57:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-by.js:57:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-by.js:57:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-by.js:57:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-while-by.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-while-by.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-while-by.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-while-by.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-while-by.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-while-by.js:2:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-while-by.js:60:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-while-by.js:60:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-while-by.js:60:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/buffer-while-by.js:60:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/filter-by.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/filter-by.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/filter-by.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/filter-by.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/filter-by.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/filter-by.js:2:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/filter-by.js:25:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/filter-by.js:25:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/filter-by.js:25:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/filter-by.js:25:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/sampled-by.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/sampled-by.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/sampled-by.js:1:16: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/sampled-by.js:1:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/sampled-by.js:5:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/sampled-by.js:5:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/sampled-by.js:5:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/sampled-by.js:5:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/skip-until-by.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/skip-until-by.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/skip-until-by.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/skip-until-by.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/skip-until-by.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/skip-until-by.js:2:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/skip-until-by.js:25:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/skip-until-by.js:25:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/skip-until-by.js:25:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/skip-until-by.js:25:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/take-until-by.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/take-until-by.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/take-until-by.js:1:44: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/take-until-by.js:15:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/take-until-by.js:15:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/take-until-by.js:15:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/two-sources/take-until-by.js:15:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/utils/collections.js:134:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/utils/collections.js:134:8: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/utils/functions.js:31:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/utils/functions.js:31:8: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/utils/now.js:1:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/utils/now.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/utils/now.js:1:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/utils/now.js:1:16: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/utils/objects.js:29:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/utils/objects.js:29:8: Semi-colon expected
+
+MultipleErrors: /home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:1:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:1:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:1:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:1:24: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:2:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:2:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:2:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:2:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:3:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:3:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:3:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:3:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:11:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:11:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:11:14: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:11:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:14:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:14:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:14:14: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:14:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:17:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:17:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:17:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:17:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:20:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:20:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:20:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:20:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:23:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:23:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:23:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:23:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:26:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:26:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:26:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:26:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:29:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:29:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:29:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:29:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:32:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:32:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:32:25: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:32:30: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:36:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:36:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:36:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:36:24: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:39:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:39:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:39:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:39:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:47:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:47:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:47:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:47:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:50:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:50:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:50:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:50:27: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:58:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:58:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:58:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:58:24: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:64:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:64:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:64:16: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:64:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:75:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:75:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:75:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:75:25: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:78:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:78:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:78:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:78:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:84:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:84:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:84:25: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:84:30: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:87:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:87:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:87:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:87:28: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:89:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:89:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:89:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:89:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:99:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:99:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:99:12: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:99:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:106:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:106:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:106:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:106:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:113:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:113:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:113:13: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:113:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:120:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:120:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:120:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:120:24: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:127:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:127:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:127:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:127:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:134:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:134:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:134:13: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:134:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:141:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:141:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:141:13: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:141:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:148:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:148:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:148:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:148:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:155:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:155:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:155:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:155:28: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:162:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:162:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:162:13: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:162:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:168:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:168:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:168:13: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:168:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:175:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:175:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:175:16: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:175:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:182:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:182:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:182:14: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:182:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:190:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:190:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:190:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:190:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:198:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:198:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:198:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:198:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:205:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:205:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:205:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:205:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:212:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:212:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:212:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:212:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:219:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:219:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:219:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:219:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:226:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:226:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:226:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:226:26: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:233:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:233:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:233:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:233:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:240:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:240:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:240:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:240:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:247:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:247:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:247:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:247:27: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:255:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:255:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:255:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:255:25: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:262:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:262:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:262:24: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:262:29: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:270:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:270:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:270:30: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:270:35: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:277:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:277:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:277:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:277:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:284:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:284:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:284:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:284:25: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:296:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:296:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:296:16: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:296:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:302:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:302:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:302:12: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:302:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:308:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:308:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:308:14: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:308:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:314:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:314:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:314:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:314:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:320:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:320:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:320:13: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:320:18: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:326:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:326:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:326:15: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:326:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:330:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:330:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:330:16: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:330:21: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:348:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:348:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:348:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:348:27: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:360:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:360:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:360:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:360:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:367:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:367:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:367:24: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:367:29: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:374:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:374:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:374:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:374:25: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:381:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:381:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:381:20: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:381:25: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:389:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:389:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:389:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:389:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:397:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:397:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:397:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:397:27: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:408:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:408:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:420:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:420:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:420:17: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:420:22: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:428:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:428:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:428:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:428:28: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:437:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:437:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:437:23: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:437:28: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:445:1: Unexpected reserved word import
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:445:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:445:19: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:445:24: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:463:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:463:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:468:1: Unexpected reserved word export
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:468:8: Semi-colon expected
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:468:8: Unexpected reserved word default
+/home/asp/.jspm/packages/npm/kefir@3.2.2/src/index.js:468:16: Semi-colon expected
