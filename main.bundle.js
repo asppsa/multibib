@@ -32906,7 +32906,11 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
   }
 
   function localeUrl(language) {
-    return '/locales/locales-' + language + '.xml';
+    // Make a relative URI
+    var uri = new URI();
+    uri.segment("locales");
+    uri.segment('locales-' + language + '.xml');
+    return uri.toString();
   }
 
   function flatten(arr) {
