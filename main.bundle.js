@@ -33139,11 +33139,13 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
             for (var offset = 0; offset < cites.length; offset = offset + 20) {
 
               // Force a new scope
-              (function (cites) {
+              (function (offset, total, cites) {
                 lastPromise = lastPromise.then(function (formattedCitations) {
                   return new _Promise(function (res, rej) {
                     setTimeout(function () {
                       try {
+                        progress('Citing ' + offset + '/' + total + ' ...');
+
                         var _iteratorNormalCompletion2 = true;
                         var _didIteratorError2 = false;
                         var _iteratorError2 = undefined;
@@ -33152,7 +33154,18 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
                           for (var _iterator2 = _getIterator(cites), _step2; !(_iteratorNormalCompletion2 = (_step2 = _iterator2.next()).done); _iteratorNormalCompletion2 = true) {
                             var cite = _step2.value;
 
-                            var cluster = { citationItems: cite.ids.map(function (id) {
+                            // Sometimes apparently there are bogus
+                            // citation IDs.  We can ignore them provided
+                            // that at least one valid ID remains.
+                            var ids = cite.ids.filter(function (id) {
+                              return citations.has(id);
+                            });
+
+                            if (ids.length < 1) {
+                              throw new Error("Failed to find anything in Zotero for citation: " + JSON.stringify(cite));
+                            }
+
+                            var cluster = { citationItems: ids.map(function (id) {
                                 return { id: id };
                               }),
                               properties: { noteIndex: 0 } };
@@ -33188,7 +33201,7 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
                     });
                   });
                 });
-              })(cites.slice(offset, offset + 20));
+              })(offset, cites.length, cites.slice(offset, offset + 20));
             }
 
             return lastPromise.then(function (formattedCitations) {
@@ -33531,6 +33544,11 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
         return Kefir.fromPromise(processFiles(files, creds));
       });
 
+      processedFilesStream.onError(function (e) {
+        console.error(e);
+        progress("Error: " + e);
+      });
+
       // Whenever processing begins, we disable the button.  Whenever
       // processing completes or fails, we re-enable the button.
       var haveDetailsStream = Kefir.combine([filesStream, credentialStream, cslStream], function (files, credentials, csl) {
@@ -33542,6 +33560,8 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
       var goDisabled = Kefir.merge([goStream.map(function () {
         return true;
       }), processedFilesStream.map(function () {
+        return false;
+      }), processedFilesStream.mapErrors(function () {
         return false;
       })]).toProperty(function () {
         return false;
