@@ -37,7 +37,11 @@ function zoteroUri(apiKey, type, value) {
 }
 
 function localeUrl(language) {
-  return `/locales/locales-${language}.xml`;
+  // Make a relative URI
+  let uri = new URI();
+  uri.segment("locales");
+  uri.segment(`locales-${language}.xml`);
+  return uri.toString();
 }
 
 function flatten(arr) {
