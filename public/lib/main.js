@@ -208,13 +208,24 @@ function processor (style) {
                offset = offset + 20) {
 
             // Force a new scope
-            (function (cites) {
+            (function (offset, total, cites) {
               lastPromise = lastPromise.then(formattedCitations => {
                 return new Promise((res, rej) => {
                   setTimeout(function () {
                     try {
+                      progress(`Citing ${offset}/${total} ...`);
+
                       for (var cite of cites) {
-                        let cluster = {citationItems: cite.ids.map(id => ({id: id})),
+                        // Sometimes apparently there are bogus
+                        // citation IDs.  We can ignore them provided
+                        // that at least one valid ID remains.
+                        let ids = cite.ids.filter(id => citations.has(id));
+
+                        if (ids.length < 1) {
+                          throw new Error("Failed to find anything in Zotero for citation: " + JSON.stringify(cite));
+                        }
+
+                        let cluster = {citationItems: ids.map(id => ({id: id})),
                                        properties: {noteIndex: 0}};
 
                         engine
@@ -232,7 +243,7 @@ function processor (style) {
                   });
                 });
               });
-            })(cites.slice(offset, offset + 20));
+            })(offset, cites.length, cites.slice(offset, offset + 20));
           }
 
           return lastPromise.then(formattedCitations => {
@@ -558,6 +569,11 @@ function initApplication() {
           return Kefir.fromPromise(processFiles(files, creds));
         });
 
+    processedFilesStream.onError(e => {
+      console.error(e);
+      progress("Error: " + e);
+    });
+
     // Whenever processing begins, we disable the button.  Whenever
     // processing completes or fails, we re-enable the button.
     let haveDetailsStream = Kefir
@@ -571,7 +587,8 @@ function initApplication() {
 
     let goDisabled = Kefir
         .merge([goStream.map(() => true),
-                processedFilesStream.map(() => false)])
+                processedFilesStream.map(() => false),
+                processedFilesStream.mapErrors(() => false)])
         .toProperty(() => false)
         .combine(haveDetailsStream, (goDisabled, haveDetails) => {
           return goDisabled || !haveDetails;
