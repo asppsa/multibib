@@ -1,0 +1,6 @@
+*~
+
+node_modules
+public/jspm_packages
+public/main.bundle.js*
+
