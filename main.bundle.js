@@ -33157,24 +33157,34 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
                             // Sometimes apparently there are bogus
                             // citation IDs.  We can ignore them provided
                             // that at least one valid ID remains.
-                            var ids = cite.ids.filter(function (id) {
+                            var citationItems = _Array$from(cite.idMap).filter(function (_ref5) {
+                              var _ref52 = _slicedToArray(_ref5, 2);
+
+                              var id = _ref52[0];
+                              var item = _ref52[1];
                               return citations.has(id);
+                            }).map(function (_ref6) {
+                              var _ref62 = _slicedToArray(_ref6, 2);
+
+                              var id = _ref62[0];
+                              var item = _ref62[1];
+                              return { id: id,
+                                locator: item.locator ? item.locator : null,
+                                label: item.label ? item.label : null };
                             });
 
-                            if (ids.length < 1) {
+                            if (citationItems.length < 1) {
                               throw new Error("Failed to find anything in Zotero for citation: " + JSON.stringify(cite));
                             }
 
-                            var cluster = { citationItems: ids.map(function (id) {
-                                return { id: id };
-                              }),
+                            var cluster = { citationItems: citationItems,
                               properties: { noteIndex: 0 } };
 
-                            engine.appendCitationCluster(cluster).forEach(function (_ref5) {
-                              var _ref52 = _slicedToArray(_ref5, 2);
+                            engine.appendCitationCluster(cluster).forEach(function (_ref7) {
+                              var _ref72 = _slicedToArray(_ref7, 2);
 
-                              var k = _ref52[0];
-                              var v = _ref52[1];
+                              var k = _ref72[0];
+                              var v = _ref72[1];
 
                               formattedCitations[k] = v;
                             });
@@ -33286,14 +33296,26 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
               }).map(function (node) {
                 var jsonPart = node.textContent.match(/^\s*ADDIN ZOTERO_ITEM CSL_CITATION\s*({.*})\s*$/)[1];
                 var json = JSON.parse(jsonPart);
-                var ids = flatten(json.citationItems.map(function (item) {
-                  return item.uris;
-                })).map(function (uri) {
+                var idMap = new _Map(flatten(json.citationItems.map(function (item) {
+                  return item.uris.map(function (uri) {
+                    return [uri, item];
+                  });
+                })).map(function (_ref8) {
+                  var _ref82 = _slicedToArray(_ref8, 2);
+
+                  var uri = _ref82[0];
+                  var item = _ref82[1];
+
                   var matches = uri.match(/\/([^\/]*)$/);
-                  return matches ? matches[1] : null;
-                });
+                  return matches ? [matches[1], item] : null;
+                }).filter(function (pair) {
+                  return pair != null;
+                }));
+
+                var ids = _Array$from(idMap.keys());
 
                 return { ids: ids,
+                  idMap: idMap,
                   node: node,
                   json: json,
                   xml: xml };
@@ -33459,12 +33481,12 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
       });
 
       return cslStream;
-    }), loadZoteroCredentials().then(function (_ref6) {
-      var _ref62 = _slicedToArray(_ref6, 3);
+    }), loadZoteroCredentials().then(function (_ref9) {
+      var _ref92 = _slicedToArray(_ref9, 3);
 
-      var userIds = _ref62[0];
-      var groupIds = _ref62[1];
-      var apiKey = _ref62[2];
+      var userIds = _ref92[0];
+      var groupIds = _ref92[1];
+      var apiKey = _ref92[2];
 
       userIdsInput.value = userIds;
       var userIdsStream = Kefir.fromEvents(userIdsInput, 'input', function (ev) {
@@ -33516,11 +33538,11 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
       });
 
       return credentialStream;
-    })]).then(function (_ref7) {
-      var _ref72 = _slicedToArray(_ref7, 2);
+    })]).then(function (_ref10) {
+      var _ref102 = _slicedToArray(_ref10, 2);
 
-      var cslStream = _ref72[0];
-      var credentialStream = _ref72[1];
+      var cslStream = _ref102[0];
+      var credentialStream = _ref102[1];
 
       // This streams clicks to the go button
       var goStream = Kefir.fromEvents(go, 'click');
@@ -33535,11 +33557,11 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
       });
 
       // Returns the result of processing when 'go' is clicked.
-      var processedFilesStream = Kefir.combine([filesStream, credentialStream]).sampledBy(goStream).flatMapFirst(function (_ref8) {
-        var _ref82 = _slicedToArray(_ref8, 2);
+      var processedFilesStream = Kefir.combine([filesStream, credentialStream]).sampledBy(goStream).flatMapFirst(function (_ref11) {
+        var _ref112 = _slicedToArray(_ref11, 2);
 
-        var files = _ref82[0];
-        var creds = _ref82[1];
+        var files = _ref112[0];
+        var creds = _ref112[1];
 
         return Kefir.fromPromise(processFiles(files, creds));
       });
@@ -33560,8 +33582,6 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
       var goDisabled = Kefir.merge([goStream.map(function () {
         return true;
       }), processedFilesStream.map(function () {
-        return false;
-      }), processedFilesStream.mapErrors(function () {
         return false;
       })]).toProperty(function () {
         return false;
@@ -33631,6 +33651,11 @@ System.register('lib/main.js', ['npm:babel-runtime@5.8.38/helpers/sliced-to-arra
             a.setAttribute('download', file.name);
             a.textContent = 'Download';
             downloadArea.appendChild(a);
+          });
+
+          docxStream.onError(function (e) {
+            console.error(e);
+            progress("Error: " + e);
           });
 
           return elt;
