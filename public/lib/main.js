@@ -587,8 +587,7 @@ function initApplication() {
 
     let goDisabled = Kefir
         .merge([goStream.map(() => true),
-                processedFilesStream.map(() => false),
-                processedFilesStream.mapErrors(() => false)])
+                processedFilesStream.map(() => false)])
         .toProperty(() => false)
         .combine(haveDetailsStream, (goDisabled, haveDetails) => {
           return goDisabled || !haveDetails;
@@ -664,6 +663,11 @@ function initApplication() {
               a.textContent = 'Download';
               downloadArea.appendChild(a);
             });
+
+          docxStream.onError(e => {
+            console.error(e);
+            progress("Error: " + e);
+          });
 
           return elt;
         });
