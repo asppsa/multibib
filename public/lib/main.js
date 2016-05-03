@@ -219,13 +219,17 @@ function processor (style) {
                         // Sometimes apparently there are bogus
                         // citation IDs.  We can ignore them provided
                         // that at least one valid ID remains.
-                        let ids = cite.ids.filter(id => citations.has(id));
+                        let citationItems = Array.from(cite.idMap)
+                            .filter(([id, item]) => citations.has(id))
+                            .map(([id, item]) => ({id: id,
+                                                   locator: item.locator ? item.locator : null,
+                                                   label: item.label ? item.label : null}));
 
-                        if (ids.length < 1) {
+                        if (citationItems.length < 1) {
                           throw new Error("Failed to find anything in Zotero for citation: " + JSON.stringify(cite));
                         }
 
-                        let cluster = {citationItems: ids.map(id => ({id: id})),
+                        let cluster = {citationItems: citationItems,
                                        properties: {noteIndex: 0}};
 
                         engine
@@ -328,13 +332,16 @@ function processFiles(files, creds) {
                 .map(node => {
                   let jsonPart = node.textContent.match(/^\s*ADDIN ZOTERO_ITEM CSL_CITATION\s*({.*})\s*$/)[1];
                   let json = JSON.parse(jsonPart);
-                  let ids = flatten(json.citationItems.map(item => item.uris))
-                      .map(uri => {
-                        let matches = uri.match(/\/([^\/]*)$/);
-                        return matches ? matches[1] : null;
-                      });
+                  let idMap = new Map(flatten(json.citationItems.map(item => item.uris.map(uri => [uri, item])))
+                                      .map(([uri, item]) => {
+                                        let matches = uri.match(/\/([^\/]*)$/);
+                                        return matches ? [matches[1], item] : null;
+                                      }).filter(pair => pair != null));
+
+                  let ids = Array.from(idMap.keys());
 
                   return {ids: ids,
+                          idMap: idMap,
                           node: node,
                           json: json,
                           xml: xml};
